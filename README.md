@@ -1,7 +1,7 @@
 # JOKER - Landing page
 
 ## ➳ This is a responsive Movie Page (Joker) 
-<img src= "https://github.com/Thaiis-Cortes/Joker-LandingPage/blob/master/img/Design%20sem%20nome.png?raw=true">
+
 
 ## ➳ You can watch the movie trailer on your computer or phone
 deployed: https://sprightly-daffodil-051b14.netlify.app/#
